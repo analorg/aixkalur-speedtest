@@ -12,5 +12,7 @@ gcc -Wall main.c -o bin/c_anagramm
 Running
 --
 ./bin/c_anagramm lemmad.txt kirsa
+
 ./bin/python_anagramm/main lemmad.txt kirsa
+
 ./bash_anagramm lemmad.txt kirsa
